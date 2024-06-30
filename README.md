@@ -1,0 +1,1 @@
+Esse projeto foi feito com HTML, CSS e JS. Tem como principais funcionalidades: Uso da localStorage para salvar as notas ao recarregar a página, edição das notas, criação das notas, pesquisa por notas, e limpeza de todas as notas. O projeto foi feito no curso de Front end do Hora de codar, e foi acrescentado a funcionalidade de limpeza das notas por mim.
